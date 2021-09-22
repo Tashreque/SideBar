@@ -13,6 +13,7 @@
 		89703D4926FB9C8300143EC2 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89703D4726FB9C8300143EC2 /* Main.storyboard */; };
 		89703D4B26FB9C8700143EC2 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 89703D4A26FB9C8700143EC2 /* Assets.xcassets */; };
 		89703D4E26FB9C8700143EC2 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 89703D4C26FB9C8700143EC2 /* LaunchScreen.storyboard */; };
+		89703D5626FBABA100143EC2 /* RightSideMenuViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 89703D5526FBABA100143EC2 /* RightSideMenuViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		89703D4A26FB9C8700143EC2 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		89703D4D26FB9C8700143EC2 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		89703D4F26FB9C8700143EC2 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		89703D5526FBABA100143EC2 /* RightSideMenuViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = RightSideMenuViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -59,6 +61,7 @@
 				89703D4126FB9C8300143EC2 /* AppDelegate.swift */,
 				89703D4326FB9C8300143EC2 /* SceneDelegate.swift */,
 				89703D4526FB9C8300143EC2 /* ViewController.swift */,
+				89703D5526FBABA100143EC2 /* RightSideMenuViewController.swift */,
 				89703D4726FB9C8300143EC2 /* Main.storyboard */,
 				89703D4A26FB9C8700143EC2 /* Assets.xcassets */,
 				89703D4C26FB9C8700143EC2 /* LaunchScreen.storyboard */,
@@ -138,6 +141,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				89703D4626FB9C8300143EC2 /* ViewController.swift in Sources */,
+				89703D5626FBABA100143EC2 /* RightSideMenuViewController.swift in Sources */,
 				89703D4226FB9C8300143EC2 /* AppDelegate.swift in Sources */,
 				89703D4426FB9C8300143EC2 /* SceneDelegate.swift in Sources */,
 			);
